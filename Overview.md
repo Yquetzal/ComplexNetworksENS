@@ -35,10 +35,10 @@ There are 24h of lectures and 8h of practicals. The course is given in English, 
 
 | Day | Time | Room | Teacher | Topic | Resources |
 |-----|------|------|---------|-------|-----------|
-| Practical 1 | 10:15–12:15 | F |  | Guided example + Project | |
-| Practical 2 | 08:00–10:00 | F |  | Project |  |
-| Practical 3  | 08:00–10:00 | F |  | Project |  |
-| Practical 4 | 08:00–10:00 | F |  | Project |  |
+| Practical 1 |  | F |  | Guided example + Project | |
+| Practical 2 |  | F |  | Project |  |
+| Practical 3  |  | F |  | Project |  |
+| Practical 4 |  | F |  | Project |  |
 
 -----
 # DATA
