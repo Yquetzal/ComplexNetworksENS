@@ -39,9 +39,9 @@ There are 24h of lectures and 8h of practicals. The course is given in English, 
 | Class 5   | 10h15-12h15    | -         | Pierre Borgnat       |  |
 | Class 6  | 10h15-12h15    | -         | Pierre Borgnat        |  |
 | Class 7   | 10h15-12h15 | Lecture: Spin networks + beginning of tutorial 1 (Hopfield)        | Alexandre Nicolas       | Jupyter lab |
-| Class 8  | 10h15-12h15 | Tutorial 1: Propagation of an epidemic on a network        | Alexandre Nicolas       | |
+| Class 8  | 10h15-12h15 | Tutorial 2: Propagation of an epidemic on a network        | Alexandre Nicolas       | |
 | Class 9   | 10h15-12h15 |  Lecture: Flow networks     | Alexandre Nicolas      | |
-| Class 10   | 10h15-12h15 |  Tutorial 2: Road network        | Alexandre Nicolas        |  QGIS|
+| Class 10   | 10h15-12h15 |  Tutorial 3: Road network        | Alexandre Nicolas        |  QGIS|
 | Class 11   | 10h15-12h15 |    Lecture: Stochastic dynamics on networks       | Alexandre Nicolas        |  |
 | Class 12   | 10h15-12h15 |   Lecture: Stochastic dynamics on networks  + short tutorial (analytical)      | Alexandre Nicolas       | |
 
