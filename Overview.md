@@ -30,20 +30,20 @@ There are 24h of lectures and 8h of practicals. The course is given in English, 
 
 ## Lectures
 
-| Class | Time       | Topic        | Teachers | Content |
-|-----------|-------------|-------------|------------|------------|
-| Class 1   | 10h15-12h15     | Lecture: Introduction, Describing Networks, Centralities          | Rémy Cazabet     | CheatSheet_intro - CheatSheet_matrices - CheatSheet_centralities - Slides |
-| Class 2  | 10h15-12h15     | Experiments: Gephi, networkx intro           | Rémy Cazabet      | TP1 - TP2 |
-| Class 3  | 10h15-12h15    | Lecture: Random Graphs and Communities         | Rémy Cazabet      | CheatSheet_RandomGraphs - CheatSheet communities - Lecture |
-| Class 4  | 10h15-12h15    | Experiments: Random Graphs and Communities         | Rémy Cazabet     | TP |
-| Class 5   | 10h15-12h15    | -         | Pierre Borgnat       |  |
-| Class 6  | 10h15-12h15    | -         | Pierre Borgnat        |  |
-| Class 7   | 10h15-12h15 | Lecture: Spin networks + beginning of tutorial 1 (Hopfield)        | Alexandre Nicolas       | Jupyter lab |
-| Class 8  | 10h15-12h15 | Tutorial 2: Propagation of an epidemic on a network        | Alexandre Nicolas       | |
-| Class 9   | 10h15-12h15 |  Lecture: Flow networks     | Alexandre Nicolas      | |
-| Class 10   | 10h15-12h15 |  Tutorial 3: Road network        | Alexandre Nicolas        |  QGIS|
-| Class 11   | 10h15-12h15 |    Lecture: Stochastic dynamics on networks       | Alexandre Nicolas        |  |
-| Class 12   | 10h15-12h15 |   Lecture: Stochastic dynamics on networks  + short tutorial (analytical)      | Alexandre Nicolas       | |
+| Class | Date | Time       | Topic        | Teachers | Content |
+|----|------|-------------|-------------|------------|------------|
+| 1 | 10/09  | 10h15-12h15     | Lecture: Introduction, Describing Networks, Centralities          | Rémy Cazabet     | CheatSheet_intro - CheatSheet_matrices - CheatSheet_centralities - Slides |
+| 2 | 17/09 | 10h15-12h15     | Experiments: Gephi, networkx intro           | Rémy Cazabet      | TP1 - TP2 |
+| 3 | 24/09 | 10h15-12h15    | Lecture: Random Graphs and Communities         | Rémy Cazabet      | CheatSheet_RandomGraphs - CheatSheet communities - Lecture |
+| 4 | 01/10 | 10h15-12h15    | Experiments: Random Graphs and Communities         | Rémy Cazabet     | TP |
+| 5 | 08/10 | 10h15-12h15    | -         | Pierre Borgnat       |  |
+| 6 | 15/10  | 10h15-12h15    | -         | Pierre Borgnat        |  |
+| 7 | 03/11 | 10h15-12h15 | Lecture: Spin networks + beginning of tutorial 1 (Hopfield)        | Alexandre Nicolas       | Jupyter lab |
+| 8 | 10/11 | 10h15-12h15 | Tutorial 2: Propagation of an epidemic on a network        | Alexandre Nicolas       | |
+| 9 | 17/11 | 10h15-12h15 |  Lecture: Flow networks     | Alexandre Nicolas      | |
+| 10 | 24/11 | 10h15-12h15 |  Tutorial 3: Road network        | Alexandre Nicolas        |  QGIS|
+| 11 | 01/12 | 10h15-12h15 |    Lecture: Stochastic dynamics on networks       | Alexandre Nicolas        |  |
+| 12 | 08/12  | 10h15-12h15 |   Lecture: Stochastic dynamics on networks  + short tutorial (analytical)      | Alexandre Nicolas       | |
 
 
 ## Practicals
@@ -51,10 +51,15 @@ The practical sessions will mostly be dedicated to work on a project related to 
 
 | Day | Time | Room | Teacher | Topic | Resources |
 |-----|------|------|---------|-------|-----------|
-| Practical 1 |  | F |  | Guided example (optional) + Project | |
-| Practical 2 |  | F |  | Project |  |
-| Practical 3  |  | F |  | Project |  |
-| Practical 4 |  | F |  | Project |  |
+| 17/09 | 15h45-17h45  | F |  | Guided example (optional) + Project | |
+| 01/10 | 13h30-15h30 | F |  | Project |  |
+| 22/10  | 10h15-12h15  | F |  | Project |  |
+| 08/12 | 15h45-17h45 | F |  | Project |  |
+
+| Day | Time | Room | Teacher | Topic | Resources |
+|-----|------|------|---------|-------|-----------|
+| 17/12 | 13h30-17h45 | F |  | Presentation of the project |  |
+
 
 -----
 # DATA
