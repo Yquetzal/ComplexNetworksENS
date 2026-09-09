@@ -32,7 +32,7 @@ There are 24h of lectures and 8h of practicals. The course is given in English, 
 
 | Class | Date | Time       | Topic        | Teachers | Content |
 |----|------|-------------|-------------|------------|------------|
-| 1 | 10/09  | 10h15-12h15     | Lecture: Introduction, Describing Networks, Centralities          | Rémy Cazabet     | CheatSheet_intro - CheatSheet_matrices - CheatSheet_centralities - Slides |
+| 1 | 10/09  | 10h15-12h15     | Lecture: Introduction, Describing Networks, Centralities          | Rémy Cazabet     | [CheatSheet_intro](https://cazabetremy.fr/Teaching/CN/Definitions.pdf) - [CheatSheet_matrices](https://cazabetremy.fr/Teaching/CN/Matrices.pdf) - [CheatSheet_centralities](https://cazabetremy.fr/Teaching/CN/Centralities.pdf) - [Slides](https://cazabetremy.fr/Teaching/CN/2026/Description_centrality.pdf)|
 | 2 | 17/09 | 10h15-12h15     | Experiments: Gephi, networkx intro           | Rémy Cazabet      | TP1 - TP2 |
 | 3 | 24/09 | 10h15-12h15    | Lecture: Random Graphs and Communities         | Rémy Cazabet      | CheatSheet_RandomGraphs - CheatSheet communities - Lecture |
 | 4 | 01/10 | 10h15-12h15    | Experiments: Random Graphs and Communities         | Rémy Cazabet     | TP |
