@@ -103,6 +103,10 @@ There is no strong constraint on the question that you will address. We simply r
 - it might be worth addressing from a network perspective. If it turns out that network analysis does not help, this is perfectly acceptable, as long as you explain your approach and how you arrived at this conclusion;
 - the constructed network and/or its analysis are not already widely available.
 
+### Final presentation
+
+Additionnally to the report, you will also make a presentation of your project. Details to come.
+
 ---
 
 ## Indicative and non-exhaustive list of possible questions
