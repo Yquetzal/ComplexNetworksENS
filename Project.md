@@ -69,14 +69,6 @@ A useful rule is:
 
 > **Every paragraph, figure and table should contribute directly to the investigation.**
 
-You may take inspiration from data-driven articles such as:
-
-- [Peak population — Our World in Data](https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so)
-- [Climate change and agriculture — Our World in Data](https://ourworldindata.org/will-climate-change-affect-crop-yields-future)
-- [Student population in the UK — Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howhasthestudentpopulationchanged/2016-09-20)
-
-These examples are not network-science reports, but illustrate the type of **focused, figure-driven investigation** expected.
-
 ### 2.3 Code and technical documentation
 
 In addition to the final report, you must provide:
@@ -102,64 +94,19 @@ Network visualizations should be used when they help answer the research questio
 
 If you create visualizations using Gephi, remember to also submit the original image files.
 
-You may also explore tools such as [`pyvis`](https://pyvis.readthedocs.io/en/latest/) for interactive network visualization.
-
 ### 2.5 What question should I address?
 
-There are few constraints on the question you choose.
+There is no strong constraint on the question that you will address. We simply
+request that (i) it might be worth addressing it from a network perspective (if
+it turns out the network analysis actually does not help, this is okay, as long as
+you explain your endeavours and how you arrived at this conclusion), (ii) the
+constructed network and/or its analysis are not already widely available.---
 
-We simply ask that:
-
-1. **A network perspective has the potential to provide useful insight.**  
-   If you eventually find that network analysis does *not* help much, that is perfectly acceptable, provided that you explain what you tried and how you reached this conclusion.
-
-2. **The project should contain an original contribution**, through the construction of the network, the research question, the analysis, or a combination of these. Simply reproducing an existing network analysis is not sufficient.
-
-Open, exploratory questions are encouraged. A project does not need to produce a definitive answer to be successful.
-
----
-
-## 3. Evaluation
-
-The final grade for the project will be the average of two components.
-
-### 3.1 Final investigation
-
-The first component evaluates the quality of the final work, including:
-
-- the relevance and clarity of the research question;
-- the quality and originality of the data and network construction;
-- the choice and correct application of network-analysis methods;
-- the quality of the figures and visualizations;
-- the interpretation of the results;
-- the clarity and concision of the report;
-- the overall quality of the scientific investigation.
-
-The amount of text or number of analyses performed is **not** a criterion by itself.
-
-A focused project answering one interesting question carefully is preferable to a long report containing many superficial analyses.
-
-### 3.2 Work during the semester
-
-The second component is an overall evaluation of the work carried out during the semester, based in particular on:
-
-- weekly discussions with the teachers;
-- progress made between project sessions;
-- the quality and organisation of the code;
-- your ability to explain and justify your choices;
-- your involvement in the project sessions.
-
-Regular participation therefore matters.
-
-Students who do not attend the project sessions may receive a grade of **zero for this second component**, even if the submitted final report is excellent.
-
----
-
-## 4. Indicative and non-exhaustive list of possible questions
+## 3. Indicative and non-exhaustive list of possible questions
 
 The following examples are intended as inspiration. You are encouraged to propose your own question.
 
-### 4.1 Pipeline networks
+### 3.1 Pipeline networks
 
 In September **2022**, gas leaks appeared on the Nord Stream 1 and 2 pipelines, raising suspicions of possible sabotage.
 
@@ -174,7 +121,7 @@ Possible resources:
 - [Gas Pipelines in Europe — Memgraph](https://memgraph.com/blog/gas-pipelines-in-europe)
 - [Gas Pipelines — Le Monde diplomatique](https://mondediplo.com/maps/gas-pipelines)
 
-### 4.2 Submarine communication cables
+### 3.2 Submarine communication cables
 
 [Submarine cables](https://www.submarinecablemap.com/) form the backbone of the intercontinental telecommunications network, but they are regularly damaged by human activity, either accidentally or deliberately.
 
@@ -184,7 +131,7 @@ Possible questions include:
 - Which cables are structurally the most critical?
 - Can the location and pattern of cable faults help assess whether malicious activity is statistically plausible?
 
-### 4.3 The Great Fear
+### 3.3 The Great Fear
 
 Zapperi et al. ([*Nature*, 2025](https://www.nature.com/articles/s41586-025-09392-2)) studied the propagation of the **Great Fear of 1789 in France** using an epidemiological model. The Python scripts used in the study are available as supplementary material.
 
@@ -194,7 +141,7 @@ Possible questions include:
 - Were some locations particularly central to its propagation?
 - Conversely, which locations appear to have played only a minor role?
 
-### 4.4 Sea lanes / marine traffic routes
+### 3.4 Sea lanes / marine traffic routes
 
 In the aftermath of the Israeli-American strikes on Iran in 2026, the Strait of Hormuz was partly closed to merchant ships and tankers, affecting the global economy to varying degrees depending on the country.
 
@@ -211,7 +158,7 @@ Possible resources:
 - [MarineTraffic](https://www.marinetraffic.com/)
 - [Global Shipping Lanes — Resource Watch](https://resourcewatch.org/data/explore/com012-Global-Shipping-Lanes)
 
-### 4.5 Forest fires
+### 3.5 Forest fires
 
 The French territory was severely affected by megafires during the summer of 2026.
 
@@ -228,7 +175,7 @@ Possible resources:
 - [CORINE Land Cover — data.gouv.fr](https://www.data.gouv.fr/datasets/corine-land-cover-occupation-des-sols-en-france)
 - [Historical forest-fire maps — feuxdeforet.fr](https://feuxdeforet.fr/cartes/historique/)
 
-### 4.6 Power grid
+### 3.6 Power grid
 
 On April 28, 2025, a major blackout affected the Spanish and Portuguese power grids.
 
@@ -242,7 +189,7 @@ Possible resource:
 
 - [ENTSO-E transmission system map](https://www.entsoe.eu/data/map/)
 
-### 4.7 Adjacent street names
+### 3.7 Adjacent street names
 
 Most streets have names.
 
