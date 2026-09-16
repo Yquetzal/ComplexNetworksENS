@@ -51,7 +51,7 @@ The practical sessions will mostly be dedicated to work on a project related to 
 
 | Day | Time | Room | Teacher | Topic | Resources |
 |-----|------|------|---------|-------|-----------|
-| 17/09 | 15h45-17h45  | F |  | [data-collection notebook(optional)](https://cazabetremy.fr/Teaching/CN/2026/webscrapping.ipynb), [Scientometric guided exercise(optional)](https://cazabetremy.fr/Teaching/CN/TPs/sciento.pdf) + Project | |
+| 17/09 | 15h45-17h45  | F |  | [data-collection notebook(optional)](https://cazabetremy.fr/Teaching/CN/2026/webscrapping.ipynb), [Scientometric guided exercise(optional)](https://cazabetremy.fr/Teaching/CN/TPs/sciento.pdf) + [Project](https://github.com/Yquetzal/ComplexNetworksENS/blob/main/Project.md) | |
 | 01/10 | 13h30-15h30 | F |  | Project |  |
 | 22/10  | 10h15-12h15  | F |  | Project |  |
 | 08/12 | 15h45-17h45 | F |  | Project |  |
