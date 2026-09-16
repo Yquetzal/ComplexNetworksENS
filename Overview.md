@@ -66,8 +66,8 @@ The practical sessions will mostly be dedicated to work on a project related to 
 
 ## Toy Networks
 
-- [**Game of Thrones** (`.graphml`)](http://cazabetremy.fr/Teaching/CN2021/dataset/GOT.graphml)
-- [**Airports** with location and country (`.graphml`)](http://cazabetremy.fr/Teaching/CN2020/airportsAndCoord.graphml)
+- small network: [**Game of Thrones** (`.graphml`)](http://cazabetremy.fr/Teaching/CN2021/dataset/GOT.graphml)
+- medium network: [**Airports** with location and country (`.graphml`)](http://cazabetremy.fr/Teaching/CN2020/airportsAndCoord.graphml)
 
 
 More generally, if you want to find data of interest, I provide here some [tips](http://cazabetremy.fr/Teaching/DatasetSearching.html) to find them.
