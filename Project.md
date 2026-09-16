@@ -2,9 +2,9 @@
 
 **Pierre Borgnat, Rémy Cazabet & Alexandre Nicolas**
 
-## 1. In short
+## In short
 
-1. **Identify a question for which a network perspective could be insightful.**  
+1. **Identify a question for which a network perspective could be insightful.**
    Ideally, favour open or unsettled questions, possibly inspired by current events. Some ideas are given below, but the list is not exhaustive.
 
 2. **Create a network related to this question and analyse it** using concepts and methods introduced in the lectures.
@@ -15,22 +15,24 @@
 
 ---
 
-## 2. Guidelines
+## Guidelines
 
-### 2.1 Creating your own network
+### Creating your own network
 
 Once you have identified the question you want to address, collect relevant data and use them to create a network related to this question.
 
 For this project, you need to create your own network(s). There are several possible approaches:
 
 - **Collect data from external sources**, either:
+
   - online, for instance using an API or web scraping, or
   - by contacting someone who can provide data that are not openly available.
 
   > Using an LLM to help collect or structure data is acceptable, provided that you clearly explain what you did and verify the consistency of the output.
 
-- **Start from an existing dataset that is not already in graph format.**  
+- **Start from an existing dataset that is not already in graph format.**
   For example:
+
   - taxi trips with source and destination locations → transport network;
   - users and music preferences → music similarity network;
   - [MovieLens](https://grouplens.org/datasets/movielens/latest/) → movie or user similarity network;
@@ -38,7 +40,7 @@ For this project, you need to create your own network(s). There are several poss
 
   Extract a list of edges from the original data and create the network, for example using `networkx`.
 
-- **Simplify or enrich an existing network.**  
+- **Simplify or enrich an existing network.**
   For geographic data, GIS tools such as [QGIS](https://qgis.org/) may be useful.
 
 Feel free to ask for help and advice during the project.
@@ -50,7 +52,7 @@ Your report should clearly introduce the network you created:
 - What choices or assumptions did you make when constructing the network?
 - How might these choices affect your results?
 
-### 2.2 Final report
+### Final report
 
 The report should contain **at most 2,000 words** and **at most 12 pages**, including figures.
 
@@ -69,7 +71,7 @@ A useful rule is:
 
 > **Every paragraph, figure and table should contribute directly to the investigation.**
 
-### 2.3 Code and technical documentation
+### Code and technical documentation
 
 In addition to the final report, you must provide:
 
@@ -86,7 +88,7 @@ The code should be reasonably organised and reproducible.
 
 The purpose of separating the main report from the technical material is to keep the report focused on the scientific question and the results, rather than filling it with implementation details.
 
-### 2.4 Visualization
+### Visualization
 
 Remember that **a good figure can replace a long explanation**.
 
@@ -94,19 +96,20 @@ Network visualizations should be used when they help answer the research questio
 
 If you create visualizations using Gephi, remember to also submit the original image files.
 
-### 2.5 What question should I address?
+### What question should I address?
 
-There is no strong constraint on the question that you will address. We simply
-request that (i) it might be worth addressing it from a network perspective (if
-it turns out the network analysis actually does not help, this is okay, as long as
-you explain your endeavours and how you arrived at this conclusion), (ii) the
-constructed network and/or its analysis are not already widely available.---
+There is no strong constraint on the question that you will address. We simply request that:
 
-## 3. Indicative and non-exhaustive list of possible questions
+- it might be worth addressing from a network perspective. If it turns out that network analysis does not help, this is perfectly acceptable, as long as you explain your approach and how you arrived at this conclusion;
+- the constructed network and/or its analysis are not already widely available.
+
+---
+
+## Indicative and non-exhaustive list of possible questions
 
 The following examples are intended as inspiration. You are encouraged to propose your own question.
 
-### 3.1 Pipeline networks
+### Pipeline networks
 
 In September **2022**, gas leaks appeared on the Nord Stream 1 and 2 pipelines, raising suspicions of possible sabotage.
 
@@ -121,7 +124,7 @@ Possible resources:
 - [Gas Pipelines in Europe — Memgraph](https://memgraph.com/blog/gas-pipelines-in-europe)
 - [Gas Pipelines — Le Monde diplomatique](https://mondediplo.com/maps/gas-pipelines)
 
-### 3.2 Submarine communication cables
+### Submarine communication cables
 
 [Submarine cables](https://www.submarinecablemap.com/) form the backbone of the intercontinental telecommunications network, but they are regularly damaged by human activity, either accidentally or deliberately.
 
@@ -131,7 +134,7 @@ Possible questions include:
 - Which cables are structurally the most critical?
 - Can the location and pattern of cable faults help assess whether malicious activity is statistically plausible?
 
-### 3.3 The Great Fear
+### The Great Fear
 
 Zapperi et al. ([*Nature*, 2025](https://www.nature.com/articles/s41586-025-09392-2)) studied the propagation of the **Great Fear of 1789 in France** using an epidemiological model. The Python scripts used in the study are available as supplementary material.
 
@@ -141,7 +144,7 @@ Possible questions include:
 - Were some locations particularly central to its propagation?
 - Conversely, which locations appear to have played only a minor role?
 
-### 3.4 Sea lanes / marine traffic routes
+### Sea lanes / marine traffic routes
 
 In the aftermath of the Israeli-American strikes on Iran in 2026, the Strait of Hormuz was partly closed to merchant ships and tankers, affecting the global economy to varying degrees depending on the country.
 
@@ -158,7 +161,7 @@ Possible resources:
 - [MarineTraffic](https://www.marinetraffic.com/)
 - [Global Shipping Lanes — Resource Watch](https://resourcewatch.org/data/explore/com012-Global-Shipping-Lanes)
 
-### 3.5 Forest fires
+### Forest fires
 
 The French territory was severely affected by megafires during the summer of 2026.
 
@@ -175,7 +178,7 @@ Possible resources:
 - [CORINE Land Cover — data.gouv.fr](https://www.data.gouv.fr/datasets/corine-land-cover-occupation-des-sols-en-france)
 - [Historical forest-fire maps — feuxdeforet.fr](https://feuxdeforet.fr/cartes/historique/)
 
-### 3.6 Power grid
+### Power grid
 
 On April 28, 2025, a major blackout affected the Spanish and Portuguese power grids.
 
@@ -189,7 +192,7 @@ Possible resource:
 
 - [ENTSO-E transmission system map](https://www.entsoe.eu/data/map/)
 
-### 3.7 Adjacent street names
+### Adjacent street names
 
 Most streets have names.
 
