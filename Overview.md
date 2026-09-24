@@ -34,7 +34,7 @@ There are 24h of lectures and 8h of practicals. The course is given in English, 
 |----|------|-------------|-------------|------------|------------|
 | 1 | 10/09  | 10h15-12h15     | Lecture: Introduction, Describing Networks, Centralities          | Rémy Cazabet     | [CheatSheet_intro](https://cazabetremy.fr/Teaching/CN/Definitions.pdf) - [CheatSheet_matrices](https://cazabetremy.fr/Teaching/CN/Matrices.pdf) - [CheatSheet_centralities](https://cazabetremy.fr/Teaching/CN/Centralities.pdf) - [Slides](https://cazabetremy.fr/Teaching/CN/2026/Description_centrality.pdf)|
 | 2 | 17/09 | 10h15-12h15     | Experiments: Gephi, networkx intro           | Rémy Cazabet      | [TP1](https://cazabetremy.fr/Teaching/CN/XPgephi.pdf) - [TP2](https://cazabetremy.fr/Teaching/CN/XPnetworkx.pdf) |
-| 3 | 24/09 | 10h15-12h15    | Lecture: Random Graphs and Communities         | Rémy Cazabet      | CheatSheet_RandomGraphs - CheatSheet communities - Lecture |
+| 3 | 24/09 | 10h15-12h15    | Lecture: Random Graphs and Communities         | Rémy Cazabet      | [CheatSheet_RandomGraphs](https://cazabetremy.fr/Teaching/CN/CheatSheetsOLD/RandomGraphs.pdf) - [CheatSheet communities](https://cazabetremy.fr/Teaching/CN/CheatSheetsOLD/Communities.pdf) - [Lecture](https://cazabetremy.fr/Teaching/CN/2026/RandomAndCommunities.pdf) |
 | 4 | 01/10 | 10h15-12h15    | Experiments: Random Graphs and Communities         | Rémy Cazabet     | TP |
 | 5 | 08/10 | 10h15-12h15    | -         | Pierre Borgnat       |  |
 | 6 | 15/10  | 10h15-12h15    | -         | Pierre Borgnat        |  |
