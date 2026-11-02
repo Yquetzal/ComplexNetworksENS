@@ -38,8 +38,8 @@ There are 24h of lectures and 8h of practicals. The course is given in English, 
 | 4 | 01/10 | 10h15-12h15    | Experiments: Random Graphs and Communities         | Rémy Cazabet     | [TP](https://cazabetremy.fr/Teaching/CN/2026/XP_NULL_COM.pdf) |
 | 5 | 08/10 | 10h15-12h15    | -         | Pierre Borgnat       |  |
 | 6 | 15/10  | 10h15-12h15    | -         | Pierre Borgnat        |  |
-| 7 | 03/11 | 10h15-12h15 | Lecture: Spin networks + beginning of tutorial 1 (Hopfield)        | Alexandre Nicolas       | [TD_B1](https://github.com/Yquetzal/ComplexNetworksENS/blob/main/TD/TD_B1_spin_networks.ipynb) (Jupyter lab) |
-| 8 | 10/11 | 10h15-12h15 | Tutorial 2: Propagation of an epidemic on a network        | Alexandre Nicolas       | |
+| 7 | 03/11 | 10h15-12h15 | Lecture: Spin networks + beginning of tutorial 1 (spin network)        | Alexandre Nicolas       | [TD_B1](https://github.com/Yquetzal/ComplexNetworksENS/blob/main/TD/TD_B1_spin_networks.ipynb) (Jupyter lab) |
+| 8 | 10/11 | 10h15-12h15 | Tutorial 2: Propagation of an epidemic on a network        | Alexandre Nicolas       | [TD_B2](https://github.com/Yquetzal/ComplexNetworksENS/blob/main/TD/TD_B2_epidemics.ipynb)|
 | 9 | 17/11 | 10h15-12h15 |  Lecture: Flow networks     | Alexandre Nicolas      | |
 | 10 | 24/11 | 10h15-12h15 |  Tutorial 3: Road network        | Alexandre Nicolas        |  QGIS|
 | 11 | 01/12 | 10h15-12h15 |    Lecture: Stochastic dynamics on networks       | Alexandre Nicolas        |  |
